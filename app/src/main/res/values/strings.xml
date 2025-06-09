@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Удаление шума</string>
+    <string name="start_camera">Запустить камеру</string>
+    <string name="stop_camera">Остановить камеру</string>
+    <string name="processing">Обработка...</string>
+    <string name="error_camera">Ошибка при запуске камеры</string>
+    <string name="error_permission">Требуется разрешение на использование камеры</string>
+    <string name="normal_mode">Обычный режим</string>
+    <string name="noise_removal_mode">Режим удаления шума</string>
+    <string name="noise_type">Тип шума:</string>
+    <string name="kernel_size">Размер ядра:</string>
+    <string name="filter_strength">Сила фильтра (sigma):</string>
+    <string name="gaussian_noise">Гауссовский шум</string>
+    <string name="salt_pepper_noise">Шум \'соль и перец\'</string>
+    <string name="impulse_noise">Импульсный шум</string>
+</resources> 
